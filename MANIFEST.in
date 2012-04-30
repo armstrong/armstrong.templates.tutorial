@@ -1,0 +1,5 @@
+include MANIFEST.in
+include README.rst
+include package.json
+recursive-include project_template *
+prune build/*
