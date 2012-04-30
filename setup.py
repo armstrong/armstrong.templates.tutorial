@@ -12,7 +12,7 @@ for path, files in paths_and_files:
 
 setup(
     name="armstrong.templates.tutorial",
-    version="1.0.0",
+    version="1.1alpha.0",
     description="The tutorial project for Armstrong",
     long_description=open("README.rst").read(),
     author='Texas Tribune & Bay Citizen',
